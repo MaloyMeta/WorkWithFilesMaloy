@@ -1,0 +1,7 @@
+name age
+alice 21
+ryan 30
+ryan 30 29
+Ilya 21
+Dima 43
+Glory to Ukraine
